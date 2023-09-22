@@ -1,14 +1,14 @@
 # 1-mc-ceca
 
 
-pensamento computalcional 1 mc
+Pensamento Computalcional 1 mc
 
 
 
-aluno, sim
+Aluno, Sim
 
 
-estamos aprendendo
+Estamos Aprendendo
 
 
-mundo geek
+Mundo Geek
